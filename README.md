@@ -13,4 +13,4 @@
 - Aplicação na validação de estruturas internas usadas por algoritmos de prioridade, diagnósticos de desempenho, checagem de consistência em pipelines e entendimento de como bancos de dados otimizam consultas.
 
 ### Cálculo de mediana em fluxo de dados (streaming)
-- Importante para análises em tempo real, como monitoramento de latência, mediana de valores transacionais, métricas operacionais e normalização contínua em modelos analíticos
+- Importante para análises em tempo real, como monitoramento de latência, mediana de valores transacionais, métricas operacionais e normalização contínua em modelos analíticos.
